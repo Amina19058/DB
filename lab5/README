@@ -1,0 +1,5 @@
+Using psycopg2 I've created new table CUSTOMER in database and filled it with random data. Then I executed 
+queries using EXPLAIN analyze statement to look how many time it is needed to get my queries executed.
+Then I created indexes to optimize the time. I created age index which used hashing and name index which 
+used btree approach. Time to get my queries executed decreased greatly. Thus, indexing can greatly improve 
+our perfomance

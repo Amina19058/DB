@@ -19,4 +19,6 @@ WHERE payment_id in (SELECT payment_id
 FROM payment
 WHERE
     date_trunc('month', payment_date) IN 
-	(SELECT date_trunc('month', max(payment_date)) FROM payment)) GROUP BY staff.staff_id;
+	(SELECT date_trunc('month', max(payment_date)) FROM payment)) GROUP BY staff.staff_id LIMIT 1;
+
+-- Here I've counted the total amount of payments in every store during last mounth and then choosed the greatest

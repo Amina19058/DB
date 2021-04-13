@@ -1,0 +1,1 @@
+MATCH (e:eighter)-[b1:beats]-(l:eighter), (l)-[b2:beats]-(e) with e, l, count(b1) as cnt1, count(b2) as cnt2 WHERE cnt1 = 1 AND cnt2 = 1 RETURN *

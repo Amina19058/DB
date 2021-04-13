@@ -1,0 +1,1 @@
+MATCH (m:Fighter)-[:beats]-() WHERE m.weight = '155' OR m.weight = '170' OR m.weight = '185' RETURN DISTINCT m

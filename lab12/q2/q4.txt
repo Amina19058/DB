@@ -1,0 +1,2 @@
+MATCH (f:Fighter) WHERE NOT ()-[:beats]->(f)
+MATCH (l:Fighter) WHERE NOT (l)-[:beats]->() RETURN f, l

@@ -1,0 +1,1 @@
+MATCH (m:Fighter)-[*2..]-(l:Fighter) WHERE m.name = 'Khabib Nurmagomedov' RETURN l

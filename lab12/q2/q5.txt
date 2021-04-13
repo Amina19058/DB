@@ -1,0 +1,2 @@
+MATCH (f1 {name: 'Khabib Nurmagomedov'}), (f2 {name: 'Rafael Dos Anjos'})
+SET f1.record = [f2.name, f2.weight] RETURN ()-[:beats]-()

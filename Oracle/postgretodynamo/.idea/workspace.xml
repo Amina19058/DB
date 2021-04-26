@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bcc2507-8629-4416-8166-949449890174" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1rWry59WQ5YhJ4Hf1Ou94CPwK3t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/services" />
+      <recent name="$PROJECT_DIR$/src/utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="MigrationScript" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="MigrationScript" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bcc2507-8629-4416-8166-949449890174" name="Default Changelist" comment="" />
+      <created>1619102937693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619102937693</updated>
+      <workItem from="1619102940706" duration="4090000" />
+      <workItem from="1619109154127" duration="3225000" />
+      <workItem from="1619118416340" duration="288000" />
+      <workItem from="1619183795098" duration="10419000" />
+      <workItem from="1619212969351" duration="1189000" />
+      <workItem from="1619214311882" duration="3143000" />
+      <workItem from="1619255389170" duration="770000" />
+      <workItem from="1619267780180" duration="2002000" />
+      <workItem from="1619270295895" duration="1214000" />
+      <workItem from="1619271688584" duration="11092000" />
+      <workItem from="1619301158514" duration="3758000" />
+      <workItem from="1619351144337" duration="6944000" />
+      <workItem from="1619379567772" duration="4453000" />
+      <workItem from="1619441292484" duration="14822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/utils/winston.js" />
+        <option value="$PROJECT_DIR$/src/loaders/index.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/loaders/postgresLoader.js" />
+        <option value="$PROJECT_DIR$/src/loaders/postgresStarter.js" />
+        <option value="$PROJECT_DIR$/src/translationSyntax/postgresDialect.js" />
+        <option value="$PROJECT_DIR$/src/translationSyntax/oracleDialect.js" />
+        <option value="$PROJECT_DIR$/src/loaders/oracleLoader.js" />
+        <option value="$PROJECT_DIR$/src/loaders/oracleDBConfig.js" />
+        <option value="$PROJECT_DIR$/src/loaders/oracleLoaderClass.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619281052197">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1619281052197" />
+    <state x="439" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619376981773">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="439" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1619376981773" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1619380622711">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1619380622711" />
+    <state x="482" y="140" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619191238442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="140" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1619191238442" />
+    <state width="1398" height="272" key="GridCell.Tab.0.bottom" timestamp="1619462024416">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619462024416" />
+    <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619391019148" />
+    <state width="1398" height="272" key="GridCell.Tab.0.center" timestamp="1619462024415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619462024415" />
+    <state width="1398" height="272" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1619391019146" />
+    <state width="1398" height="272" key="GridCell.Tab.0.left" timestamp="1619462024414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619462024414" />
+    <state width="1398" height="272" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1619391019141" />
+    <state width="1398" height="272" key="GridCell.Tab.0.right" timestamp="1619462024415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619462024415" />
+    <state width="1398" height="272" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1619391019147" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1619289980664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619289980664" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1619289980664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619289980664" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1619289980663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619289980663" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1619289980664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619289980664" />
+    <state width="1398" height="303" key="GridCell.Tab.2.bottom" timestamp="1619289980666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619289980666" />
+    <state width="1398" height="303" key="GridCell.Tab.2.center" timestamp="1619289980665">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1619289980665" />
+    <state width="1398" height="303" key="GridCell.Tab.2.left" timestamp="1619289980665">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1619289980665" />
+    <state width="1398" height="303" key="GridCell.Tab.2.right" timestamp="1619289980665">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1619289980665" />
+    <state width="1398" height="303" key="GridCell.Tab.3.bottom" timestamp="1619289980667">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619289980667" />
+    <state width="1398" height="303" key="GridCell.Tab.3.center" timestamp="1619289980666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1619289980666" />
+    <state width="1398" height="303" key="GridCell.Tab.3.left" timestamp="1619289980666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1619289980666" />
+    <state width="1398" height="303" key="GridCell.Tab.3.right" timestamp="1619289980667">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1619289980667" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1619357425806">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619357425806" />
+    <state x="399" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1619109157087">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1619109157087" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1619102941571" />
+  </component>
+</project>
